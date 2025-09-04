@@ -28,8 +28,10 @@ Chuẩn bị nụ cười, tạo dáng thật “chill” — mọi khoảnh kh�
 - 🎨 **UI thân thiện, trực quan**  
   Giao diện được thiết kế bằng Tkinter + asset riêng, dễ sử dụng cho cả người mới.
 
-## Kết quả Photobooth
+## Giao diện dùng Photobooth
+![Photobooth UI](https://github.com/noma-phuocthinh/Photobooth_Application/blob/main/Album/Screenshot%202025-09-04%20172536.png)
 
+## Kết quả dùng Photobooth
 ![Photobooth Result](https://github.com/noma-phuocthinh/Photobooth_Application/raw/main/Output_Image/photobooth_result_162217_04_09_2025.png)
 
 
@@ -63,5 +65,6 @@ Chuẩn bị nụ cười, tạo dáng thật “chill” — mọi khoảnh kh�
 
 📩 **Email**: thinhlp23416@st.uel.edu.vn (Project Header)
 #
+
 
 
